@@ -1,4 +1,4 @@
-module minaris
+module github.com/kaitoz11/minaris
 
 go 1.21.0
 

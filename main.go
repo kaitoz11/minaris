@@ -1,7 +1,7 @@
 package main
 
 import (
-	"minaris/cmd"
+	"github.com/kaitoz11/minaris/cmd"
 )
 
 func main() {

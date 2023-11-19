@@ -2,8 +2,9 @@ package cmd
 
 import (
 	"fmt"
-	"minaris/pkg/shooting"
-	"minaris/pkg/utils/setting"
+
+	"github.com/kaitoz11/minaris/pkg/shooting"
+	"github.com/kaitoz11/minaris/pkg/utils/setting"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
