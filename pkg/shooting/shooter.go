@@ -2,7 +2,8 @@ package shooting
 
 import (
 	"fmt"
-	"minaris/pkg/utils/setting"
+
+	"github.com/kaitoz11/minaris/pkg/utils/setting"
 )
 
 type Shooter struct {
