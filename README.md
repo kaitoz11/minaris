@@ -1,7 +1,12 @@
 # Minaris
 My wife can do any fukin' thing.
 
-## Shooter mode
+## Wanna meet her?
+```
+go install github.com/kaitoz11/minaris@latest
+```
+
+### Shooter mode
 
 shoot:
 ```
